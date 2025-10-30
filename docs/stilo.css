@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(133, 166, 214);
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+header{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(98, 135, 255);
+    padding: 1%;
+    text-align: center;
+    border-top: 0px solid rgb(152, 193, 255);
+    border-bottom: 10px solid rgb(152, 193, 255);
+    color: black;
+    opacity: 0.7;
+}
+
+.Contenido{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    text-align: center;
+    border-top: 5px solid rgb(0, 0, 0);
+    border-bottom: 5px solid rgb(0, 0, 0);
+    border-left: 5px solid rgb(0, 0, 0);
+    border-right: 5px solid rgb(0, 0, 0);
+}
+
